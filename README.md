@@ -1,2 +1,2 @@
-# odin
-For all my Odin projects 
+# Recipes
+For my recipes project from TOP 
