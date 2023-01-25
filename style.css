@@ -1,0 +1,39 @@
+* {
+    
+}
+
+
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+img {
+    width: auto;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+}
+
+body {
+    background-color: #CD9A99;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid black;
+}
+
+h2, {
+    text-align: center;
+}
+
+ul {
+    color: yellow;
+}
+ol {
+    color: blue;
+}
+
